@@ -4,5 +4,3 @@
 </body>
 </html>
 
-3
-<h2 stype="colour: red">Deployed using Jenkins, Ansible!! -2
